@@ -47,7 +47,8 @@ $ npm run server
 # abra outro terminal e rode o projeto
 $ npm run dev
 ```
-- [Acesse a aplicação](http://localhost:5173/)
+versão antiga:(https://organizador-de-tarefa.vercel.app/)
+- [Acesse as atualizações da aplicação](http://localhost:5173/)
 
 <hr>
 
